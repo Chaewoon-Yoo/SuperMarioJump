@@ -1,1 +1,1 @@
-# supermariojump.github.io
+# SuperMarioJump
